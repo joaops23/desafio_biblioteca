@@ -51,6 +51,8 @@ XML:
   > Micro Framework PHP gerenciador de Rotas.
 * Illuminate Database;
   > Componente retirado do Framework Laravel, com objetivo de gerenciar a conexão e as transações com o Banco de Dados.
+* Postman
+  > Utilizado para testar e validar os Endpoints.
 
 ## Link do Desafio
 
