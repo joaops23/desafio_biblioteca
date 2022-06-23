@@ -55,7 +55,7 @@ XML:
   > Utilizado para testar e validar os Endpoints.
 
 <h4 align="center"> 
-	🚧  Status do desafio: 🚀 Finalizado!  🚧
+	✔  Status do desafio: 🚀 Finalizado!  ✔
 </h4>
 
 ## Link do Desafio
