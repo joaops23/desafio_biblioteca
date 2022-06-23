@@ -4,6 +4,7 @@ namespace App;
 require_once("vendor/autoload.php");
 require_once("config/config.php");   
 require_once("Models/Models.php");
+require_once("Controllers/controller.php");
 
 //instancia e uso do slim
 require_once("route/router.php");
