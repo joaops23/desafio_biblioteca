@@ -54,6 +54,10 @@ XML:
 * Postman
   > Utilizado para testar e validar os Endpoints.
 
+<h4 align="center"> 
+	🚧  Status do desafio: 🚀 Finalizado!  🚧
+</h4>
+
 ## Link do Desafio
 
 <a href="https://github.com/devchallenge-io/biblioteca-backend" target="_blank">Desafio Biblioteca - DevChallenge</a>
